@@ -64,5 +64,27 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Doxy.me is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://doxy.me/
+Doxy.me provides a simple, free, and secure telehealth platform that enables healthcare providers to conduct video visits with patients without the need for downloads or installations. The service supports up to one million providers worldwide, offering HIPAA‑compliant video, screen sharing, and chat features. Users can sign up in under a minute, and the platform emphasizes privacy, ease of use, and integration with existing practice workflows.
+
+**Areas:** Company · Telehealth · Video · HIPAA · Free · Secure
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://doxy.me/)
+- [Documentation](https://developer.doxy.me/)
+- [Pricing](https://doxy.me/site/pricing)
+- [Support](https://doxy.me/site/about/contact/support)
+- [Changelog](https://doxy.me/site/product/releases)
+- [Blog](https://doxy.me/site/media/blog)
+- [Security](https://doxy.me/site/security)
+- [Terms of service](https://doxy.me/site/terms-of-service)
+- [Privacy policy](https://doxy.me/site/privacy-policy)
+- [Status](https://status.doxy.me/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/doxy-me/](https://apis.io/providers/doxy-me/).
